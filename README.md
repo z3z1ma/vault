@@ -28,6 +28,7 @@ Unless otherwise specified, all content in this vault is licensed under the MIT 
 If you have questions or just want to chat about Obsidian, knowledge management, or any shared topics of interest, feel free to reach out:
 
 Email: alexander.butler@harness.io
+
 Linkedin: https://www.linkedin.com/in/alexander-butler-b248821bb/
 
 Happy exploring!
